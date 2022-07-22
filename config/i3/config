@@ -198,6 +198,9 @@ exec $mod+Shift+r
 
 #polybar
 exec_always --no-startup-id "killall polybar; polybar -r default "
+## Screenshots
+bindsym $mod+Shift+s exec --no-startup-id maim "/home/$USER/Pictures/$(date)"
+
 
 #i3
 for_window [class="^.*"] border pixel 2
