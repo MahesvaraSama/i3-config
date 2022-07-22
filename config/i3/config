@@ -195,11 +195,12 @@ client.background       #ffffff
 exec xrandr --size 1920x1080
 exec xrdb .Xressources
 exec $mod+Shift+r
+exec feh --bg-scale Desktop/Wallpaper/wallpaperflare.com_wallpaper.jpg
 
 #polybar
 exec_always --no-startup-id "killall polybar; polybar -r default "
 ## Screenshots
-bindsym $mod+Shift+s exec --no-startup-id maim "/home/$USER/Pictures/$(date).png"
+bindsym $mod+Shift+s exec --no-startup-id maim "/home/$USER/Pictures/Screenshots/$(date).jpg"
 
 
 #i3
