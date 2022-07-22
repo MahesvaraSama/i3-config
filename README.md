@@ -51,6 +51,7 @@
 **MAIM**
 
 ```> sudo apt install maim```
+> **Note:** use *$mod+Shift+s* to take screenshots.  
 
 **FEH**
 
