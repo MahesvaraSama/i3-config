@@ -5,7 +5,7 @@
 
 
 
-# My first  i3-config
+# My first i3 config
 ![enter image description here](https://cdn.discordapp.com/attachments/855558511961178115/1000068326292201522/22__2022_01_164151.jpg)
 ![enter image description here](https://cdn.discordapp.com/attachments/855558511961178115/1000068325394624512/22__2022_01_164137.jpg)
 ![enter image description here](https://cdn.discordapp.com/attachments/855558511961178115/1000067986473877504/unknown.png)
