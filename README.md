@@ -58,7 +58,7 @@
 ```> sudo apt install feh```
 
 > **Note:** To set a wallpaper use this command  :  
-> ``feh --bg-scale backgroung.jpg``
+> ``feh --bg-scale background.jpg``
 
 
 
