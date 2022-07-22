@@ -1,0 +1,36 @@
+! ===================
+!       urxvt
+! ===================
+
+URxvt*scrollBar:	    false
+URxvt*letterSpace:  	-5
+URxvt.internalBorder: 10
+URxvt*font: 		      xft:DejaVu Mono :size=7
+URxvt*boldFont:		      xft:DejaVu Mono :size=7
+URxvt*cursorBlink:    true
+URxvt*utf8:			      true
+
+! ============
+!   Colors
+! ============
+
+*.foreground:   #C0CAF5
+*.background:   #1A1B26
+
+
+*.color0:                #6878A6
+*.color8:                #5d6791
+*.color1:                #DB4B4B
+*.color9:                #A6333F
+*.color2:                #9ECE6A
+*.color10:               #9ECE6A
+*.color3:                #E0AF68
+*.color11:               #BBA461
+*.color4:                #7AA2F7
+*.color12:               #6D91DE
+*.color5:                #BB9AF7
+*.color13:               #9D7CD8
+*.color6:                #41A6B5
+*.color14:               #449DAB
+*.color7:                #C0CAF5
+*.color15:               #9AA5CE
