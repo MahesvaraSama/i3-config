@@ -5,8 +5,8 @@
 URxvt*scrollBar:	    false
 URxvt*letterSpace:  	-5
 URxvt.internalBorder: 10
-URxvt*font: 		      xft:DejaVu Mono :size=7
-URxvt*boldFont:		      xft:DejaVu Mono :size=7
+URxvt*font: 		      xft:DejaVu Mono :size=10
+URxvt*boldFont:		      xft:DejaVu Mono :size=10
 URxvt*cursorBlink:    true
 URxvt*utf8:			      true
 
