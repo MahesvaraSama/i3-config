@@ -1,2 +1,2 @@
-syntax oon
+syntax on
 colo nord
